@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Pencil" type="Application" factoryName="Application" nameIsGenerated="true">
+    <module name="environment-setup-Hangi200" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
